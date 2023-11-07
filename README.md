@@ -1,2 +1,3 @@
 # RPG-GAME
-Jogo Rpg desenvolvido em Linguagem C
+Jogo Rpg desenvolvido em Linguagem C no terminal
+
